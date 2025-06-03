@@ -58,7 +58,7 @@ else if(message.includes("what is your name")){
 }
 
 else if(message.includes("who are you")){
-    speak("I am virtual assistant ,created by sameer and ayushman")
+    speak("I am virtual assistant ,created by sameer ")
 }
 
 else if(message.includes("open youtube")){
